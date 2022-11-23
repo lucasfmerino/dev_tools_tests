@@ -5,6 +5,8 @@ Developer tools testing repository
 Repositório para testes e aprendisagem de ferramentas que auxiliam o desenvolvedor.
 
 [![Build Status](https://app.travis-ci.com/lucasfmerino/dev_tools_tests.svg?branch=main)](https://app.travis-ci.com/lucasfmerino/dev_tools_tests)
+[![Updates](https://pyup.io/repos/github/lucasfmerino/dev_tools_tests/shield.svg)](https://pyup.io/repos/github/lucasfmerino/dev_tools_tests/)
+[![Python 3](https://pyup.io/repos/github/lucasfmerino/dev_tools_tests/python-3-shield.svg)](https://pyup.io/repos/github/lucasfmerino/dev_tools_tests/)
 
 ---
 
