@@ -4,6 +4,8 @@ Developer tools testing repository
 
 Repositório para testes e aprendisagem de ferramentas que auxiliam o desenvolvedor.
 
+[![Build Status](https://app.travis-ci.com/lucasfmerino/dev_tools_tests.svg?branch=main)](https://app.travis-ci.com/lucasfmerino/dev_tools_tests)
+
 ---
 
 Tópicos de estudo:
