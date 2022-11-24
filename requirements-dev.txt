@@ -7,7 +7,7 @@ commonmark==0.9.1
 docutils
 importlib-metadata
 jaraco.classes
-keyring==23.11.0
+keyring
 more-itertools==9.0.0
 pkginfo==1.8.3
 Pygments==2.13.0
