@@ -5,7 +5,7 @@ pyflakes==2.5.0
 bleach
 commonmark==0.9.1
 docutils
-importlib-metadata==5.0.0
+importlib-metadata
 jaraco.classes==3.2.3
 keyring==23.11.0
 more-itertools==9.0.0
