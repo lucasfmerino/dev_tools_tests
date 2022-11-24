@@ -6,7 +6,7 @@ bleach
 commonmark==0.9.1
 docutils
 importlib-metadata
-jaraco.classes==3.2.3
+jaraco.classes
 keyring==23.11.0
 more-itertools==9.0.0
 pkginfo==1.8.3
