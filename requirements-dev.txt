@@ -4,7 +4,7 @@ pycodestyle==2.9.1
 pyflakes==2.5.0
 bleach
 commonmark==0.9.1
-docutils==0.19
+docutils
 importlib-metadata==5.0.0
 jaraco.classes==3.2.3
 keyring==23.11.0
