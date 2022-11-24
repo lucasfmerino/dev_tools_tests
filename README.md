@@ -18,9 +18,10 @@ Tópicos de estudo:
     4. Rrquests
     5. Flake8
     6. Travis CI
-    7. Publicação de pacote PyPi
-    8. Pytest
-    9. Codecov
+    7. Pyup
+    8. Publicação de pacote PyPi
+    9. Pytest
+    10. Codecov
 
 ---
 
