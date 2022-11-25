@@ -7,6 +7,7 @@ Repositório para testes e aprendisagem de ferramentas que auxiliam o desenvolve
 [![Build Status](https://app.travis-ci.com/lucasfmerino/dev_tools_tests.svg?branch=main)](https://app.travis-ci.com/lucasfmerino/dev_tools_tests)
 [![Updates](https://pyup.io/repos/github/lucasfmerino/dev_tools_tests/shield.svg)](https://pyup.io/repos/github/lucasfmerino/dev_tools_tests/)
 [![Python 3](https://pyup.io/repos/github/lucasfmerino/dev_tools_tests/python-3-shield.svg)](https://pyup.io/repos/github/lucasfmerino/dev_tools_tests/)
+[![codecov](https://codecov.io/gh/lucasfmerino/dev_tools_tests/branch/main/graph/badge.svg?token=0A01TPE7Q1)](https://codecov.io/gh/lucasfmerino/dev_tools_tests)
 
 ---
 
