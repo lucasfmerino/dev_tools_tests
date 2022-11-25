@@ -27,6 +27,6 @@ pluggy
 colorama
 pyparsing
 pytest
-coverage==6.5.0
-pytest-cov==4.0.0
+coverage
+pytest-cov
 -r requirements.txt
