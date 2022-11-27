@@ -4,5 +4,6 @@ class Sender:
             raise InvalidMail(f'Invalid sender: {sender}')
         return sender
 
+
 class InvalidMail(Exception):
     pass
