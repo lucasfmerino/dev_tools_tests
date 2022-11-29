@@ -6,4 +6,10 @@ class SpamSender:
         SpamSender.sender = sender
 
     def send_emails(self, sender, subject, body):
-        pass
+        for user in self.session.list_it():
+            self.sender.send(
+                sender,
+                user.email,
+                subject,
+                body
+            )
