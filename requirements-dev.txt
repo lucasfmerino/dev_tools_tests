@@ -29,4 +29,5 @@ pyparsing
 pytest
 coverage
 pytest-cov
+pytest-mock
 -r requirements.txt
