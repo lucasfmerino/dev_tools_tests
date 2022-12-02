@@ -11,10 +11,10 @@ def avatar_url(mocker):
         "login": "lucasfmerino",
         "id": 116420402,
         "node_id": "U_kgDOBvBvMg",
-        "avatar_url": url
+        "avatar_url": url,
     }
     get_mock = mocker.patch('libtestingtools.api_github.requests.get')
-    get_mock.return_value=ans_mock
+    get_mock.return_value = ans_mock
     return url
 
 

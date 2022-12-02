@@ -1,4 +1,3 @@
-from libtestingtools.spam.email_sender import Sender
 from libtestingtools.spam.main import SpamSender
 from libtestingtools.spam.models import User
 from unittest.mock import Mock
@@ -43,4 +42,3 @@ def test_spam_parameters(session):
         'Libtestingtools news #001',
         'Check out the fantastic modules!'
     )
-
